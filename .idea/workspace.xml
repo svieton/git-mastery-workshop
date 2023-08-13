@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ba3c69a-0e46-488e-bb4b-857f56625e8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/change-commit-name/commit-me.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,6 @@
       <updated>1686436078288</updated>
       <workItem from="1686436080436" duration="1887000" />
       <workItem from="1686443115148" duration="146000" />
-      <workItem from="1686443269459" duration="1078000" />
     </task>
     <servers />
   </component>
