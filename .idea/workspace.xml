@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ba3c69a-0e46-488e-bb4b-857f56625e8f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/squash-commits/squash-me.js" beforeDir="false" afterPath="$PROJECT_DIR$/squash-commits/squash-me.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +15,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/squash-commits/squash-me.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2R26xgFePqTN1WDOS3VPw70m89J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,7 +46,6 @@
       <updated>1686436078288</updated>
       <workItem from="1686436080436" duration="1887000" />
       <workItem from="1686443115148" duration="146000" />
-      <workItem from="1686443269459" duration="2248000" />
     </task>
     <servers />
   </component>

@@ -14,5 +14,4 @@ To participate in this workshop, you will need:
 - A text editor of your choice (e.g., Visual Studio Code, Sublime Text, or Atom)
 
 ### Space for conflict
-Did you know that you can use `git blame` to find out who last modified each line of a file? Just run `git blame <file>` to see the commit hash and author for each line.
->>>>>>> 1cc47cc10bdf7d4de291edf4c72fd66c6336ab98
+
